@@ -36,4 +36,4 @@ Powerful **Automatic1111 Apex** AI workspace providing content generation, analy
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.    
+> This repository is provided for educational and utility purposes only. Use at your own discretion.     
